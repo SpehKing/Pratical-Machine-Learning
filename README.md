@@ -14,5 +14,5 @@ For each lab session, a notebook called "Starter" will be given to work on. The 
 * Session 8 (2025/12/05) - Unsupervised learning @Théo
 * Session 9 (2025/12/12) - Time series foundations @Davide
 * Session 10 (2025/12/12) - NLP foundations @Théo
-* Session 11 (2025/12/19) - Reinforcement learning @Davide @Théo
+* Session 11 (2025/12/19) - Q&A + Competition Start @Davide @Théo
 * Session 12 (2026/01/09) - Metaheuristics @Davide
